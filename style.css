@@ -1,0 +1,31 @@
+.banner{
+    background: url("kopi.jpg") no-repeat center center;
+    background-size: cover ;
+    padding: 20%;
+    padding-bottom: 20% ;
+    color: aliceblue;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: aliceblue;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.contact{
+    background: url(kontak.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: aliceblue;
+
+}
